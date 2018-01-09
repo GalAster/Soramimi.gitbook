@@ -1,22 +1,23 @@
-# Summary
+# Soramimi
 
-* [简介](README.md)
-* [第一章](chapter1/README.md)
- - [第一节](chapter1/section1.md)
- - [第二节](chapter1/section2.md)
-* [第二章](chapter2/README.md)
- - [第一节](chapter2/section1.md)
- - [第二节](chapter2/section2.md)
-* [第三章](chapter3/README.md)
- - [第一节](chapter3/section1.md)
- - [第二节](chapter3/section2.md)
-* [第四章](chapter4/README.md)
- - [第一节](chapter4/section1.md)
- - [第二节](chapter4/section2.md)
-* [第五章](chapter5/README.md)
- - [第一节](chapter5/section1.md)
- - [第二节](chapter5/section2.md)
+* [Introduction](README.md)
+* [Soramimi](Book/!Function/Soramimi.md)
 
-### 附录
+---
+## 正文
+* [野良神](Book/Noragami/Readme.md)
+    * [[OP1-TV ver]『午夜の待ち合わせ』](Book/Noragami/op1-tv.md)
+    * [[OP1-Full ver]『午夜の待ち合わせ』](Book/Noragami/op1-full.md)
+    * [[ED1-TV ver]『 ハートリアライズ』](Book/Noragami/ed1-tv.md)
+    * [[ED1-Full ver]『 ハートリアライズ』](Book/Noragami/ed1-full.md)
+    * [[OP2-TV ver]『Hey Kids!!』](Book/Noragami/op2-tv.md)
+    * [[OP2-Full ver]『Hey Kids!!』](Book/Noragami/op2-full.md)
+    * [[ED2-TV ver]『ニルバナ』](Book/Noragami/ed2-tv.md)
+    * [[ED2-Full ver]『ニルバナ』](Book/Noragami/ed2-full.md)
+* [Fate](Book/Fate/Readme.md)
+    * [第一节](Book/Fate/section1.md)
+    * [第二节](Book/Fate/section2.md)
 
-* [结束](end/README.md)
+## 附录
+* [结束](Book/!Function/End.md)
+
