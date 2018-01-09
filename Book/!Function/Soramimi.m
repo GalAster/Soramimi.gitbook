@@ -33,16 +33,19 @@ Begin["`Private`"];
 (* ::Subsubsection:: *)
 (*功能块 1*)
 ASS2LRC[name_String]:=Block[
-	{raw,in,SR,head,out,Export},
-	raw=Import[name<>"_t.ass","CSV",CharacterEncoding->"UTF8"];
+	{raw,in,st,SR,head,tail,out},
+	raw=Import[name,"CSV",CharacterEncoding->"UTF8"];
 	in=Cases[raw,{"Dialogue: 0",st___}->{st}][[All,{1,-1}]];
 	SR=StringReplace[#,"0:"~~x__~~":":>"["~~x~~".",1]<>"]"&;
 	(*ASS时间转化为LRC时间,不支持大于60分钟.也可以使用等价的正则表达式*)
 	(*SR=StringReplace[#,RegularExpression["0:(\\d+):(.+)"]\[Rule]"[$1.$2]"]&*)
 	head={"[al:Soramimi]","[by:ASS2LRC]","[re:Mathematica]","[ti:脚本自动生成禁止修改]",""};
-	out=Join[head,StringJoin/@MapAt[SR,in,{All,1}]];
+	tail={"["<>"Syncdate: "<>DateString["ISODateTime"]<>"]"};
+	out=Join[head,StringJoin/@MapAt[SR,in,{All,1}],tail];
+	Echo[FileBaseName[name]<>".ass","转换成功: "];
 	Export[name<>".lrc",out,"Text"];
 ];
+
 
 
 
