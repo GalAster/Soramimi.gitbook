@@ -18,7 +18,7 @@
 (* ::Section:: *)
 (*函数说明*)
 BeginPackage["Soramimi`"];
-ExampleFunction::usage = "这里应该填这个函数的说明,如果要换行用\"\r\"\r就像这样";
+ASS2LRC::usage = "这里应该填这个函数的说明,如果要换行用\"\r\"\r就像这样";
 (* ::Section:: *)
 (*程序包正体*)
 (* ::Subsection::Closed:: *)
