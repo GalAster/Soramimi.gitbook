@@ -1,9 +1,8 @@
-# Soramimi
+# Summary
 
 * [Introduction](README.md)
 * [Soramimi](Book/!Function/Soramimi.md)
 
----
 ## 正文
 * [野良神](Book/Noragami/Readme.md)
     * [[OP1-TV ver]『午夜の待ち合わせ』](Book/Noragami/op1-tv.md)
