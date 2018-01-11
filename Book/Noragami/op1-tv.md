@@ -1,5 +1,11 @@
 # [OP1-TV ver]『午夜の待ち合わせ』
 
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=32364192&auto=1&height=66"></iframe>
+
+[Syncdate: 2018-01-09T21:57:03]
+
+---
+
 [00.11.54]单刀kemode手中握
 
 [00.13.72]不可忘看淡的你 modeyilu
@@ -45,4 +51,3 @@
 
 [01.17.90]\N每当恐畏 铭记爱 吾神哟
 
-[Syncdate: 2018-01-09T21:57:03]

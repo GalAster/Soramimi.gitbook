@@ -1,10 +1,9 @@
-# Soramimi
+# Summary
 
 * [Introduction](README.md)
 * [Soramimi](Book/!Function/Soramimi.md)
 
----
-## 正文
+## 作品分类
 * [野良神](Book/Noragami/Readme.md)
     * [『午夜の待ち合わせ』[OP1-TV ver]](Book/Noragami/op1-tv.md)
     * [『午夜の待ち合わせ』[OP1-Full ver]](Book/Noragami/op1-full.md)
@@ -17,6 +16,13 @@
 * [Fate](Book/Fate/Readme.md)
     * [第一节](Book/Fate/section1.md)
     * [第二节](Book/Fate/section2.md)
+
+## 类型分类
+* [Kataomoi](Book/Kataomoi/Readme.md)
+    * [Secret base ~君がくれたもの~ ](Book/Kataomoi/section1.md)
+    * [Eonian -イオニアン](Book/Kataomoi/section2.md)
+    * [世界は恋に落ちている](Book/Kataomoi/section3.md)
+    * [希望の花](Book/Kataomoi/section4.md)
 
 ## 附录
 * [结束](Book/!Function/End.md)
