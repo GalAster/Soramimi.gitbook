@@ -1,5 +1,11 @@
 # [ED1-TV ver]『 ハートリアライズ』
 
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=28288854&auto=1&height=66"></iframe>
+
+[Syncdate: 2018-01-09T21:57:03]
+
+---
+
 [00.03.24]凄美落 爱蔓延
 
 [00.07.94]那夜晚的点墨(哪里看那(可)dianmo)
@@ -42,4 +48,3 @@
 
 [01.51.22]
 
-[Syncdate: 2018-01-09T21:57:03]
