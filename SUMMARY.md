@@ -1,12 +1,13 @@
-# Summary
+# 简介
 
 * [Introduction](README.md)
-* [Soramimi](Book/!Function/Soramimi.md)
+* [Soramimi](Book/Directory/Soramimi.md)
 
 ## 作品分类
 * [野良神](Book/Noragami/Readme.md)
-    * [『午夜の待ち合わせ』[OP1-TV ver]](Book/Noragami/op1-tv.md)
-    * [『午夜の待ち合わせ』[OP1-Full ver]](Book/Noragami/op1-full.md)
+    * 『午夜の待ち合わせ』
+      * [TV ver](Book/Noragami/op1-tv.md)
+      * [Full ver](Book/Noragami/op1-full.md)
     * [『ハートリアライズ』[ED1-TV ver]](Book/Noragami/ed1-tv.md)
     * [『ハートリアライズ』[ED1-Full ver]](Book/Noragami/ed1-full.md)
     * [『狂乱 Hey Kids!!』[OP2-TV ver]](Book/Noragami/op2-tv.md)
@@ -31,5 +32,5 @@
     * [THE HERO!!～怒れる拳に火をつけろ～](Book/Nekketsu/section3.md)
 
 ## 附录
-* [结束](Book/!Function/End.md)
+* [结束](Book/Directory/End.md)
 
